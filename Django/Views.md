@@ -1,0 +1,1 @@
+# Django Viewsに関するノート
