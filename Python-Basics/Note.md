@@ -75,5 +75,5 @@ print(isinstance(True, int))
 
 # リンク
 
-[Python組み込み関数](https://docs.python.org/ja/3/library/functions.html)
-[Pythonデスクリプタガイド](https://docs.python.org/ja/3/howto/descriptor.html)
+* [Python組み込み関数](https://docs.python.org/ja/3/library/functions.html)
+* [Pythonデスクリプタガイド](https://docs.python.org/ja/3/howto/descriptor.html)
