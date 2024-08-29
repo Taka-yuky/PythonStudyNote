@@ -77,3 +77,5 @@ print(isinstance(True, int))
 
 * [Python組み込み関数](https://docs.python.org/ja/3/library/functions.html)
 * [Pythonデスクリプタガイド](https://docs.python.org/ja/3/howto/descriptor.html)
+* [Python組み込みデータ型](https://docs.python.org/ja/3/library/stdtypes.html)
+* [Pythonデータモデル](https://docs.python.org/ja/3/reference/datamodel.html)
